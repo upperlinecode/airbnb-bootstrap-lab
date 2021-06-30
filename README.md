@@ -1,4 +1,7 @@
 # Airbnb Bootstrap Lab
+
+[![Run on Repl.it](https://repl.it/badge/github/upperlinecode/airbnb-bootstrap-lab)](https://repl.it/github/upperlinecode/airbnb-bootstrap-lab)
+
 ## The Goal
 Once you know how to use Bootstrap's components, creating professional web interfaces is possible in a much shorter amount of time. Your job in this lab is to implement and modify Bootstrap components to recreate one of the most popular interfaces on the web -- Airbnb. 
 ## The Lab
